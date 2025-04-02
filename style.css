@@ -1,0 +1,36 @@
+.chatbot {
+    display: flex;
+    top: 10%;
+    left: 40%;
+    position: absolute;
+    height: 500px; 
+    width: 250px;
+    background-color: rgba(222, 228, 221, 0.63); 
+    border-radius: 2%;
+    border: 3px solid black; 
+}
+
+.nome {
+    font-size: 20px;
+    left: 5%; 
+    margin-top: 12%;
+    margin-left: 6%;
+}
+
+.img {
+    width: 50px;
+    height: 50px; 
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left: 10%;
+    border: 2px solid black;
+}
+
+.cima {
+    display: flex;
+    width: 250px; 
+    height: 80px;
+    background-color: rgb(19, 104, 233);
+
+}
+
