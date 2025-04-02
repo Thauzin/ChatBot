@@ -22,7 +22,7 @@
     height: 50px; 
     border-radius: 50%;
     margin-top: 5%;
-    margin-left: 10%;
+    margin-left: 8%;
     border: 2px solid black;
 }
 
@@ -31,6 +31,23 @@
     width: 250px; 
     height: 80px;
     background-color: rgb(19, 104, 233);
+}
 
+.msg {
+    height: 30px;
+    width: 180px;
+    border: 2px solid black;
+    border-radius: 2%;
+    margin-top: 180%;
+    margin-left: -85%; 
+}
+
+.enviar {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-top: 179%; 
+    margin-left: 4%;
+    background-color: rgb(19, 104, 233);
 }
 
