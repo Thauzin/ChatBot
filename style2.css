@@ -1,3 +1,6 @@
+* {
+    background-color: #E3F2FD;
+}
 .chatbot {
     display: flex;
     top: 10%;
@@ -5,7 +8,7 @@
     position: absolute;
     height: 500px; 
     width: 250px;
-    background-color: rgba(222, 228, 221, 0.63); 
+    background-color: #d8d8d8;
     border-radius: 2%;
     border: 3px solid black; 
 }
@@ -30,7 +33,7 @@
     display: flex;
     width: 250px; 
     height: 80px;
-    background-color: rgb(19, 104, 233);
+    background-color: #005f99;
 }
 
 .msg {
@@ -60,6 +63,7 @@
     margin-left: -95%;
     overflow-y: auto;
     gap: 10px;
+    background-color: #d8d8d8; 
 }
 
 .usermsg {
@@ -68,7 +72,7 @@
     display: flex; 
     width: fit-content;
     height: 30px; 
-    background-color: chartreuse; 
+    background-color: #ffd700; 
     border: 1px solid black;
     border-radius: 5%; 
 }
@@ -77,7 +81,7 @@
     align-self: flex-start;
     width: fit-content;
     height: fit-content;
-    background-color: #F3F3F3; 
+    background-color: #4caf50; 
     border: 1px solid black;
     border-radius: 5%; 
 }
