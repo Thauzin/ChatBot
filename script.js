@@ -1,1 +1,6 @@
-const enviar = document.getElementById('enviar');
+function enviarmsg(){
+    const msg = document.getElementById('msg').value; 
+    if (msg != ''){
+        
+    }
+}
